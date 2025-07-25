@@ -1,0 +1,82 @@
+header{
+  background-image: url("../Images/gaz.jpeg");
+  background-size: cover;
+}
+
+#LISTE:hover{
+  border-radius: 35px;
+  border-top: 4px black solid;
+  border-left: 4px black solid;
+  border-right: 4px black solid;
+  border-bottom: 4px black solid;
+}
+
+#MELBA{
+  width: 120.5px;
+  height: 85.5px;
+  border-radius: 15px;
+  border-top: 1px black solid;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  border-bottom: 1px black solid;
+}
+
+#YOANNCONTE{
+  width: 135px;
+  height: 56px;
+  border-radius: 15px;
+  border-top: 1px black solid;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  border-bottom: 1px black solid;
+}
+
+#MACARON{
+  width: 112px;
+  height: 56px;
+  border-radius: 15px;
+  border-top: 1px black solid;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  border-bottom: 1px black solid;
+}
+
+#LOBSTERSCHACK{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+}
+
+#FD{
+  width: 120px;
+  height: 80px;
+  border-radius: 15px;
+  border-top: 1px black solid;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  border-bottom: 1px black solid;
+}
+
+#MARGUERITE{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+}
+
+#GARAGE{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+}

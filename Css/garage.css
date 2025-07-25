@@ -1,0 +1,40 @@
+#LEGENDE{
+  font-style: italic;
+  text-decoration: underline;
+  margin-bottom: 70px;
+}
+
+div{
+  width: 600px;
+  margin: auto;
+}
+
+.salle{
+  width: 600px;
+  height: 450px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.plat{
+  width: 600px;
+  height: 450px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.plats{
+  width: 505px;
+  height: 574px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}

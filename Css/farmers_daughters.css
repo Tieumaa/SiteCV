@@ -1,0 +1,50 @@
+#LEGENDE{
+  font-style: italic;
+  text-decoration: underline;
+  margin-bottom: 70px;
+}
+
+div{
+  width: 600px;
+  margin: auto;
+}
+
+.Cuisine{
+  width: 450px;
+  height: 600px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Plat{
+  width: 540px;
+  height: 360px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Plats{
+  width: 450px;
+  height: 600px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Lapins{
+  width: 730px;
+  height: 410px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}

@@ -1,0 +1,28 @@
+header{
+  background-image: url("../Images/athanor.jpeg");
+  background-size: cover;
+}
+
+#JDF{
+  width: 120px;
+  height: 80px;
+  border-top: 1px black solid;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  border-bottom: 1px black solid;
+  border-radius: 90px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#MARTINIERE{
+  width: 120px;
+  height: 80px;
+  border-top: 1px black solid;
+  border-left: 1px black solid;
+  border-right: 1px black solid;
+  border-bottom: 1px black solid;
+  border-radius: 90px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}

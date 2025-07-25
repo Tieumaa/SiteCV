@@ -1,0 +1,60 @@
+#LEGENDE{
+  font-style: italic;
+  text-decoration: underline;
+  margin-bottom: 70px;
+}
+
+div{
+  width: 600px;
+  margin: auto;
+}
+
+.Marcus{
+  width: 600px;
+  height: 450px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Poissons{
+  width: 600px;
+  height: 800px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Platter{
+  width: 600px;
+  height: 450px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Chowder{
+  width: 600px;
+  height: 370px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
+
+.Lobster{
+  width: 600px;
+  height: 370px;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
+  border-radius: 20px;
+}
